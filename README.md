@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelle-cod3s
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on projects that combine creativity and technical challenge. 
 - 📫 How to reach me @chelle-cod3s
 - 😄 Pronouns: She/Her
